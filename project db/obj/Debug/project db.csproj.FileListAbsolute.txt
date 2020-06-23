@@ -1,0 +1,19 @@
+C:\Users\LENOVO\Desktop\project db\project db\bin\Debug\project db.exe
+C:\Users\LENOVO\Desktop\project db\project db\bin\Debug\project db.exe.config
+C:\Users\LENOVO\Desktop\project db\project db\bin\Debug\Oracle.DataAccess.dll
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project_db.LecturerForm.resources
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project_db.StartForm.resources
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project_db.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project_db.StudentForm.resources
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project_db.TAForm.resources
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project db.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project db.exe
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project db.pdb
+C:\Users\LENOVO\Desktop\project db\project db\bin\Debug\project db.pdb
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project db.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project_db.crystalform1.resources
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project_db.crystalform2.resources
+C:\Users\LENOVO\Desktop\project db\project db\obj\Debug\project_db.crystalform3.resources
+C:\Users\LENOVO\Desktop\3\database\project db\project db\bin\Debug\project db.exe.config
+C:\Users\LENOVO\Desktop\3\database\project db\project db\obj\Debug\project db.exe
+C:\Users\LENOVO\Desktop\3\database\project db\project db\obj\Debug\project db.pdb
